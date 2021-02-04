@@ -1,2 +1,4 @@
 # PySpark-Recommeder-System
 PySpark - A recommender system to recommend Shakespeare characters similar to a specific character of interest
+
+William Shakespeare is considered one of the greatest playwrights in the English language. He is attributed with 38 plays, 154 sonnets, and other works. Even 400 years later, his writings are still be studied in most high schools and colleges in the US and elsewhere. Shakespeare’s complete works are available online at http://shakespeare.mit.edu/. We will be using a data set which has Shakespeare character quotes. A lot of people are fascinated by the characters in the Shakespeare plays. First we will create a Shakespeare character recommender system which is capable of recommending new characters which are similar to a speicific character of interest. We will also explore using PCA inference to find important words in character quotes. Then we will use K-Means clustering to try and find one or more character insights.
